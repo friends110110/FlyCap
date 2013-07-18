@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CFlyCapDoc">
+    <Position X="0.5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>CEBQYKAAEaQAcACBS6korAAgASggpRAcAAHDAJoAIFk=</HashCode>
+      <FileName>FlyCapDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
